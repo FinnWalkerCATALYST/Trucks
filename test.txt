@@ -1,3 +1,0 @@
-TEST FROM LINUX INSTANCE
-This is a test. 
-This is another test.
